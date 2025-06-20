@@ -1,9 +1,9 @@
 {
-  "name": "CypherX",
-  "description": "CypherX, your friendly assistant!",
-  "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+  "name": "NazimX-MD",
+  "description": "NazimX-MD, your friendly assistant!",
+  "logo": "https://files.catbox.moe/fhk2br.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/nazimhihoo/CypherX",
   "stack": "container",
   "addons": [
     {
