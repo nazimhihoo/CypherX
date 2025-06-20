@@ -1,10 +1,10 @@
 {
-    "bot-name": "CypherX",
-    "description": "CypherX, your friendly assistant!",
-    "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
+    "bot-name": "NazimX-MD",
+    "description": "NazimX-MD, your friendly assistant!",
+    "logo": "https://files.catbox.moe/fhk2br.jpg",
     "keywords": [],
     "documentation-link": "https://cypherxbot.vercel.app",
-    "owner-verification": "tylor9kid@gmail.com", 
+    "owner-verification": "muhammadnazimrind@gmail.com", 
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
